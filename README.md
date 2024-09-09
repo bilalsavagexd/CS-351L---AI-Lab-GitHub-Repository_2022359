@@ -11,6 +11,7 @@ Welcome to the **AI Lab Course (CS 351L)** Solutions Repository! In this Repo., 
 - **Program:** BS Cybersecurity  
 - **Semester:** 5th  
 
+---
 
 ## 🔧 **Getting Started**
 
@@ -29,6 +30,8 @@ To execute the code solutions yourself, follow these steps:
      ```
 3. **Open Google Colab**  
    All exercises and projects will be developed and tested on [Google Colab](https://colab.research.google.com/).
+
+---
      
 ## 📧 **Contact**
 
