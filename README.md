@@ -15,7 +15,7 @@ Welcome to the **AI Lab Course (CS 351L)** Solutions Repository! In this Repo., 
 
 ## 🔧 **Getting Started**
 
-To execute the code solutions yourself, follow these steps:
+To execute my code solutions yourself, follow these steps:
 
 1. **Clone the Repository**  
    ```bash
@@ -25,6 +25,7 @@ To execute the code solutions yourself, follow these steps:
 2. **Set Up Your Development Environment**
    - Install Python 3.x
    - Install the required libraries using `requirements.txt`:
+     
      ```bash
      pip install -r requirements.txt
      ```
