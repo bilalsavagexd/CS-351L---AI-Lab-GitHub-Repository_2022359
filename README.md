@@ -1,6 +1,6 @@
 # CS 351L - AI Lab Task Solutions
 
-Welcome to the **AI Lab Course (CS 351L)** Solutions Repository! In this Repo., you will find solutions to all the labs conducted.
+Welcome to the **AI Lab Course (CS 351L)** Solutions Repository! In this Repo., you will find solutions to all the labs conducted by Instructor **Mr. Usama Arshad**.
 
 ---
 
@@ -14,11 +14,11 @@ Welcome to the **AI Lab Course (CS 351L)** Solutions Repository! In this Repo., 
 
 ## 🔧 **Getting Started**
 
-To get started with the lab exercises, follow these steps:
+To execute the code solutions yourself, follow these steps:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/username/ai-lab-course.git
+   git clone https://github.com/bilalsavagexd/CS-351L---AI-Lab-GitHub-Repository_2022359.git
    ```
 
 2. **Set Up Your Development Environment**
@@ -27,6 +27,8 @@ To get started with the lab exercises, follow these steps:
      ```bash
      pip install -r requirements.txt
      ```
+3. **Open Google Colab**  
+   All exercises and projects will be developed and tested on [Google Colab](https://colab.research.google.com/).
      
 ## 📧 **Contact**
 
